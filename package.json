@@ -1,0 +1,17 @@
+{
+    "author": "Hunter Rustad",
+    "dependencies": {
+        "@airtable/blocks": "0.0.53",
+        "@woocommerce/woocommerce-rest-api": "^1.0.1",
+        "react": "^16.13.0",
+        "react-dom": "^16.13.0"
+    },
+    "devDependencies": {
+        "eslint": "^6.8.0",
+        "eslint-plugin-react": "^7.18.3",
+        "eslint-plugin-react-hooks": "^2.5.0"
+    },
+    "scripts": {
+        "lint": "eslint frontend"
+    }
+}
